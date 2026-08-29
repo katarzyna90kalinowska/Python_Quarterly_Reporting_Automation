@@ -133,5 +133,7 @@ Dział Handlowy"""
     
 except Exception as e:
     print(f"❌ [BŁĄD KRYTYCZNY]: {e}")
-<br>
+
+
+
 📄 **[Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](./Dokumentacja_Projektu.pdf)**
