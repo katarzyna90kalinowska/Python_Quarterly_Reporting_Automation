@@ -135,5 +135,6 @@ except Exception as e:
     print(f"❌ [BŁĄD KRYTYCZNY]: {e}")
 
 
+
 **[Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](./Automatyzacja%20wysyłki%20raportów.pdf)**
 
