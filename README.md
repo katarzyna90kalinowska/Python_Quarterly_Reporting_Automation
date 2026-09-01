@@ -136,5 +136,6 @@ except Exception as e:
 
 
 
-**[Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](./Automatyzacja%20wysyłki%20raportów.pdf)**
+**[Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](./Automatyzacja_wysylki_raportow.pdf)**
+
 
