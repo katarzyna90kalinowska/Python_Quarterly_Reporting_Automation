@@ -135,7 +135,6 @@ except Exception as e:
     print(f"❌ [BŁĄD KRYTYCZNY]: {e}")
 
 
-
-**[Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](./Automatyzacja_wysylki_raportow.pdf)**
+**[📥 Pobierz pełną dokumentację projektową oraz zrzuty ekranu (PDF)](https://raw.githubusercontent.com/katarzyna90kalinowska/Python_Quarterly_Reporting_Automation/main/Automatyzacja_wysylki_raportow.pdf)**
 
 
